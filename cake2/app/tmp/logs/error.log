@@ -1,0 +1,658 @@
+2019-11-18 01:01:20 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 26]
+2019-11-18 01:01:20 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 26)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 26, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-18 01:03:23 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 26]
+2019-11-18 01:03:23 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 26)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 26, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-18 01:05:36 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 28]
+2019-11-18 01:05:36 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 28)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 28, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-18 01:06:30 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 28]
+2019-11-18 01:06:30 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 28)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 28, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-18 01:06:34 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 28]
+2019-11-18 01:06:34 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 28)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 28, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-18 01:06:41 Error: Fatal Error (64): Cannot declare class AppController, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Controller/AppController.php, line 28]
+2019-11-18 01:06:41 Error: [FatalErrorException] Cannot declare class AppController, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 28)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 28, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-20 23:17:03 Error: [MissingActionException] Action PostsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'index',
+)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-20 23:32:07 Error: [MissingActionException] Action PostsController::some_id() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'some_id',
+)
+Request URL: /tomita160/cakephp/cake2/posts/some_id
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-20 23:47:22 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /tomita160/cakephp/cake2/posts/view/3
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/view')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-21 00:18:46 Error: [Error] Call to undefined function rcreate()
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/View/View.php(971): include()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/www/tomit...', Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/View/View.php(473): View->_render('/home/www/tomit...')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2019-11-21 23:59:41 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 08:58:15 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 08:58:26 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 09:06:44 Error: Fatal Error (1): Class 'AppModel' not found in [/home/www/tomita160/cakephp/cake2/app/Controller/PostsController.php, line 28]
+2019-11-22 09:06:44 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /tomita160/cakephp/cake2/posts/view/1
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/home/www/tomit...', 28)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(1, 'Class 'AppModel...', '/home/www/tomit...', 28, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 09:07:30 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/view/1
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 09:07:34 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/view/1
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 09:09:58 Error: Fatal Error (1): Class 'AppModel' not found in [/home/www/tomita160/cakephp/cake2/app/Model/AppModel.php, line 23]
+2019-11-22 09:09:58 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /tomita160/cakephp/cake2/posts/view/1
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/home/www/tomit...', 23)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(1, 'Class 'AppModel...', '/home/www/tomit...', 23, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 09:10:05 Error: Fatal Error (1): Class 'AppModel' not found in [/home/www/tomita160/cakephp/cake2/app/Model/AppModel.php, line 23]
+2019-11-22 09:10:05 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/home/www/tomit...', 23)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(1, 'Class 'AppModel...', '/home/www/tomit...', 23, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 09:11:02 Error: Fatal Error (64): Cannot declare class Post, because the name is already in use in [/home/www/tomita160/cakephp/cake2/app/Model/Post.php, line 2]
+2019-11-22 09:11:02 Error: [FatalErrorException] Cannot declare class Post, because the name is already in use
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot declare ...', '/home/www/tomit...', 2)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(64, 'Cannot declare ...', '/home/www/tomit...', 2, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 09:11:41 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 09:13:35 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:32:17 Error: [MissingActionException] Action PostsController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'edit',
+)
+Request URL: /tomita160/cakephp/cake2/posts/edit/1
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 11:37:52 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/5
+Stack Trace:
+#0 [internal function]: PostsController->delete('5')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:38:14 Error: [NotFoundException] Invalid post
+Request URL: /tomita160/cakephp/cake2/posts/edit/5
+Stack Trace:
+#0 [internal function]: PostsController->edit('5')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:38:35 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/1
+Stack Trace:
+#0 [internal function]: PostsController->edit('1')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:45:23 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/7
+Stack Trace:
+#0 [internal function]: PostsController->delete('7')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:45:38 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/8
+Stack Trace:
+#0 [internal function]: PostsController->edit('8')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:45:48 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/8
+Stack Trace:
+#0 [internal function]: PostsController->edit('8')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 11:50:35 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/4
+Stack Trace:
+#0 [internal function]: PostsController->edit('4')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:10:16 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/4
+Stack Trace:
+#0 [internal function]: PostsController->edit('4')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:20:57 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 12:21:12 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 12:21:39 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:25:16 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:35:16 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/6
+Stack Trace:
+#0 [internal function]: PostsController->edit('6')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:35:37 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/6
+Stack Trace:
+#0 [internal function]: PostsController->edit('6')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:41:37 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 12:44:34 Error: [MissingActionException] Action PostsController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'edit',
+)
+Request URL: /tomita160/cakephp/cake2/posts/edit/1
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 12:44:55 Error: [MissingActionException] Action PostsController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'edit',
+)
+Request URL: /tomita160/cakephp/cake2/posts/edit/1
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 12:52:52 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:07:03 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:24:32 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/13
+Stack Trace:
+#0 [internal function]: PostsController->delete('13')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:28:14 Error: [Error] Call to a member function error() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/13
+Stack Trace:
+#0 [internal function]: PostsController->delete('13')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:30:48 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/2
+Stack Trace:
+#0 [internal function]: PostsController->edit('2')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:30:58 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/3
+Stack Trace:
+#0 [internal function]: PostsController->edit('3')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 13:31:19 Error: [Error] Call to a member function error() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/13
+Stack Trace:
+#0 [internal function]: PostsController->delete('13')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 14:58:28 Error: [Error] Call to a member function error() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/13
+Stack Trace:
+#0 [internal function]: PostsController->delete('13')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 14:58:49 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /tomita160/cakephp/cake2/posts/delete/12
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-11-22 14:59:01 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-11-22 14:59:31 Error: [ParseError] syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/delete/12
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 14:59:40 Error: [ParseError] syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 15:00:51 Error: [MissingActionException] Action PostsController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'delete',
+)
+Request URL: /tomita160/cakephp/cake2/posts/delete/12
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 15:01:05 Error: [MissingActionException] Action PostsController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'delete',
+)
+Request URL: /tomita160/cakephp/cake2/posts/delete/12
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 15:02:05 Error: [MissingActionException] Action PostsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'view',
+)
+Request URL: /tomita160/cakephp/cake2/posts/view/12
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-11-22 15:02:24 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/12
+Stack Trace:
+#0 [internal function]: PostsController->edit('12')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:07:14 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/12
+Stack Trace:
+#0 [internal function]: PostsController->edit('12')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:07:36 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/12
+Stack Trace:
+#0 [internal function]: PostsController->edit('12')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:07:47 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/12
+Stack Trace:
+#0 [internal function]: PostsController->delete('12')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:07:57 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/11
+Stack Trace:
+#0 [internal function]: PostsController->edit('11')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:08:08 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/11
+Stack Trace:
+#0 [internal function]: PostsController->edit('11')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:08:12 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/edit/11
+Stack Trace:
+#0 [internal function]: PostsController->edit('11')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:20:47 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/delete/11
+Stack Trace:
+#0 [internal function]: PostsController->delete('11')
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 15:28:04 Error: [Error] Call to a member function success() on null
+Request URL: /tomita160/cakephp/cake2/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-11-22 16:10:27 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('AppController')
+#1 /home/www/tomita160/cakephp/cake2/app/Controller/PostsController.php(2): spl_autoload_call('AppController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(567): include('/home/www/tomit...')
+#3 [internal function]: App::load('PostsController')
+#4 [internal function]: spl_autoload_call('PostsController')
+#5 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#6 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#7 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#8 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-11-22 16:10:27 Error: Fatal Error (16): Exception thrown without a stack frame in [Unknown, line 0]
+2019-11-22 16:10:27 Error: [FatalErrorException] Exception thrown without a stack frame
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(16, 'Exception throw...', 'Unknown', 0)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(16, 'Exception throw...', 'Unknown', 0, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 16:11:12 Error: [ParseError] syntax error, unexpected 'FlashComponent' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('AppController')
+#1 /home/www/tomita160/cakephp/cake2/app/Controller/PostsController.php(2): spl_autoload_call('AppController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(567): include('/home/www/tomit...')
+#3 [internal function]: App::load('PostsController')
+#4 [internal function]: spl_autoload_call('PostsController')
+#5 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#6 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#7 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#8 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-11-22 16:11:12 Error: Fatal Error (16): Exception thrown without a stack frame in [Unknown, line 0]
+2019-11-22 16:11:12 Error: [FatalErrorException] Exception thrown without a stack frame
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(16, 'Exception throw...', 'Unknown', 0)
+#1 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(970): ErrorHandler::handleError(16, 'Exception throw...', 'Unknown', 0, Array)
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2019-11-22 16:12:41 Error: [ParseError] syntax error, unexpected 'class' (T_CLASS)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2019-11-22 16:13:04 Error: [ParseError] syntax error, unexpected 'FlashComponent' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /tomita160/cakephp/cake2/posts/index
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/tomita160/cakephp/cake2/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/tomita160/cakephp/cake2/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
